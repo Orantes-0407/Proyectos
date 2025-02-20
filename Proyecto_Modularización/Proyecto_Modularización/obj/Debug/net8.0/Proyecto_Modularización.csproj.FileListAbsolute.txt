@@ -1,0 +1,14 @@
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\bin\Debug\net8.0\Proyecto_Modularización.exe
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\bin\Debug\net8.0\Proyecto_Modularización.deps.json
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\bin\Debug\net8.0\Proyecto_Modularización.runtimeconfig.json
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\bin\Debug\net8.0\Proyecto_Modularización.dll
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\bin\Debug\net8.0\Proyecto_Modularización.pdb
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\obj\Debug\net8.0\Proyecto_Modularización.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\obj\Debug\net8.0\Proyecto_Modularización.AssemblyInfoInputs.cache
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\obj\Debug\net8.0\Proyecto_Modularización.AssemblyInfo.cs
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\obj\Debug\net8.0\Proyecto_Modularización.csproj.CoreCompileInputs.cache
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\obj\Debug\net8.0\Proyecto_Modularización.dll
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\obj\Debug\net8.0\refint\Proyecto_Modularización.dll
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\obj\Debug\net8.0\Proyecto_Modularización.pdb
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\obj\Debug\net8.0\Proyecto_Modularización.genruntimeconfig.cache
+C:\Users\MELANY\Desktop\repositorio privado\Programa Modularización\Proyecto_Modularización\Proyecto_Modularización\obj\Debug\net8.0\ref\Proyecto_Modularización.dll
