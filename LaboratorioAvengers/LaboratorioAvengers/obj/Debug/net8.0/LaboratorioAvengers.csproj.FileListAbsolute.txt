@@ -1,0 +1,14 @@
+C:\LaboratorioAvengers\LaboratorioAvengers\bin\Debug\net8.0\LaboratorioAvengers.exe
+C:\LaboratorioAvengers\LaboratorioAvengers\bin\Debug\net8.0\LaboratorioAvengers.deps.json
+C:\LaboratorioAvengers\LaboratorioAvengers\bin\Debug\net8.0\LaboratorioAvengers.runtimeconfig.json
+C:\LaboratorioAvengers\LaboratorioAvengers\bin\Debug\net8.0\LaboratorioAvengers.dll
+C:\LaboratorioAvengers\LaboratorioAvengers\bin\Debug\net8.0\LaboratorioAvengers.pdb
+C:\LaboratorioAvengers\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.GeneratedMSBuildEditorConfig.editorconfig
+C:\LaboratorioAvengers\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.AssemblyInfoInputs.cache
+C:\LaboratorioAvengers\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.AssemblyInfo.cs
+C:\LaboratorioAvengers\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.csproj.CoreCompileInputs.cache
+C:\LaboratorioAvengers\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.dll
+C:\LaboratorioAvengers\LaboratorioAvengers\obj\Debug\net8.0\refint\LaboratorioAvengers.dll
+C:\LaboratorioAvengers\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.pdb
+C:\LaboratorioAvengers\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.genruntimeconfig.cache
+C:\LaboratorioAvengers\LaboratorioAvengers\obj\Debug\net8.0\ref\LaboratorioAvengers.dll
