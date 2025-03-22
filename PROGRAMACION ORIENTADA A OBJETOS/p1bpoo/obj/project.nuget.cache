@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RrNzJSVDMOo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\p1bpoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
